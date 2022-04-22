@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "192809479498",
+    "firebase_url": "https://infinity-6980e.firebaseio.com",
+    "project_id": "infinity-6980e",
+    "storage_bucket": "infinity-6980e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192809479498:android:bad7bea6ef53ba8f",
+        "android_client_info": {
+          "package_name": "com.digitalhouse.a0818moan01c_03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192809479498-c6pqjvfshh7adf6u5m164lch56hodb1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalhouse.a0818moan01c_03",
+            "certificate_hash": "d317016e604347a311e54f8d1c67a8c38175cd9b"
+          }
+        },
+        {
+          "client_id": "192809479498-ose73nsaqu9jomad93an40p52ce0i67u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalhouse.a0818moan01c_03",
+            "certificate_hash": "42b94e917664926fbccefc8fbe9d36f960d0183e"
+          }
+        },
+        {
+          "client_id": "192809479498-2v17lemoacvqelta67df81g6af78fcge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5o1dDMQALcjI1MHQAmIYKbGhkvJrYg50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192809479498-2v17lemoacvqelta67df81g6af78fcge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
